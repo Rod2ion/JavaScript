@@ -1,0 +1,11 @@
+[
+    {
+        "title": "Pan Tadeusz",
+        "author": "Adam Mickiewicz",
+    "status": {
+            "own": "true",
+            "reading": "true",
+            "read": "false"
+    }
+    }
+]
